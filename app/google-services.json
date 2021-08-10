@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808707133345",
+    "project_id": "techytalk-63a37",
+    "storage_bucket": "techytalk-63a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808707133345:android:78c9a3f94a367bf4a185e0",
+        "android_client_info": {
+          "package_name": "com.example.techytalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808707133345-netrvui5h62qgptil2c8icikvclnh1fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtm60ZqUwEZk8o1pdC9it5lStILadpOgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808707133345-netrvui5h62qgptil2c8icikvclnh1fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
