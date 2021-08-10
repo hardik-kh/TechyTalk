@@ -12,4 +12,4 @@ App Screens
 
 | Chat Page        | 
 | ------------- |
-| <img src ="group.jpeg" height = "600" width = "300">    |
+| <img src ="group.jpeg" height = "600" width = "300" align="center">    |
