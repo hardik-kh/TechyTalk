@@ -6,11 +6,11 @@ App Screens
 | ------------- | -----:|
 | <img src ="otp.jpg" height = "600" width = "300">     | <img src ="home.jpg" height = "600" width = "300"> | 
 
-| Chat Page        | Staus Viewer          | 
+| Chat Page        | Status Viewer          | 
 | ------------- | -----:|
 | <img src ="chat.jpeg" height = "600" width = "300">    | <img src ="status.jpeg" height = "600" width = "300"> |
 
-| Chat Page        | 
+| Group Chat Page        | 
 | ------------- |
 | <img src ="group.jpeg" height = "600" width = "300">    |
 
